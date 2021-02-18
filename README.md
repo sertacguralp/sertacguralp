@@ -1,6 +1,8 @@
 ###  <h2>Hi there 👋</h2> 
 
- ...
+I have nearly 10 years of experience in software development.
+I am experienced in C#, ASP.Net Core, MVC, SQL Server.
+I am currently learning React, React Native and Node.js
 
  <h2>Know / Using </h2>
  
