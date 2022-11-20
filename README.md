@@ -1,7 +1,7 @@
 ###  <h2>Hi there 👋</h2> 
 
 I'm currently living in Amsterdam, Netherlands.<br/>
-I've been working since 2012. During this time, I held a variety of positions.<br/>
+I've been working since 2012.<br/>
 I have worked with Microsoft technologies, such as .NET, SQL Server, and Azure. I'm also familiar with Node JS, React, and MongoDB.<br/>
 
 <p>
